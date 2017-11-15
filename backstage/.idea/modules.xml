@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/backstage.iml" filepath="$PROJECT_DIR$/backstage.iml" />
       <module fileurl="file://E://Ij//backstage/backstage.iml" filepath="E://Ij//backstage/backstage.iml" />
     </modules>
   </component>
